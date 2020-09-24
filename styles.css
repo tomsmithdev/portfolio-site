@@ -45,6 +45,11 @@ li {
 	color: rgba(40, 23, 75, 1);
 }
 
+.navbtn:hover,
+.home:hover {
+	border-bottom: 3px solid rgba(0, 218, 128, 1);
+}
+
 #container {
 	max-width: 2500px;
 	margin: 20px auto;
